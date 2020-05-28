@@ -35,6 +35,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 19 de mayo](https://drive.google.com/file/d/1NBmAnucQMYI6FAVaQ0dFNVc2PeJ0N8EL/view). Modelos generativos. Naive Bayes. Combinación de modelos. Árboles de decisión.
 
 [Martes 26 de mayo](https://drive.google.com/file/d/1J8m5yNWQkicV6pIap4PHjUIZOq68wHdz/view). Métodos de ensemble. Descomposición sesgo-varianza. Comités. Bagging. Boosting (AdaBoost y Gradient Boost). Stacking.
+
+[Jueves 28 de mayo](https://drive.google.com/file/d/1ILpXY9TUEVWXGXwM2q7r4fEMPqBGvBRB/view). Comentario sobre tratamiento de incertezas del target en Modelos Lineales.
 ***
 
 ### Videos
