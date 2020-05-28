@@ -27,6 +27,14 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 21 de abril](https://drive.google.com/file/d/1DoWLNQUPJkrPTlS53YUdSLZumQn7bFDd/view). Visión bayesiana de la regresión con modelos lineales. Comparación de modelos. Clasificación: conceptos generales y funciones discriminativas. Discriminante lineal de Fischer. Perceptrón.
 
 [Jueves 30 de abril](https://drive.google.com/file/d/1WFnVMjwRVhUGBmAgpsUSSgRE1C-AQnI8/view). Repaso de clasificación y algunos conceptos sobre regresión logística.
+
+[Martes 5 de mayo](https://drive.google.com/file/d/1P2roqsFsORRWRjfqdLopzfzTATqS4fPA/view). Más de clasificación con modelos lineales. Modelos discriminativos. Regresión logística. IRLS.
+
+[Martes 12 de mayo](https://drive.google.com/file/d/1yFjeezVKlIXggt7DlFkBdXc-3hUeHOCN/view). Support Vector Machines (SVM). Problema dual y truco del kernel. SVM para clasificación y para regresión.
+
+[Martes 19 de mayo](https://drive.google.com/file/d/1NBmAnucQMYI6FAVaQ0dFNVc2PeJ0N8EL/view). Modelos generativos. Naive Bayes. Combinación de modelos. Árboles de decisión.
+
+[Martes 26 de mayo](https://drive.google.com/file/d/1J8m5yNWQkicV6pIap4PHjUIZOq68wHdz/view). Métodos de ensemble. Descomposición sesgo-varianza. Comités. Bagging. Boosting (AdaBoost y Gradient Boost). Stacking.
 ***
 
 ### Videos
