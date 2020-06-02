@@ -36,7 +36,7 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 [Martes 26 de mayo](https://drive.google.com/file/d/1J8m5yNWQkicV6pIap4PHjUIZOq68wHdz/view). Métodos de ensemble. Descomposición sesgo-varianza. Comités. Bagging. Boosting (AdaBoost y Gradient Boost). Stacking.
 
-Martes 02 de junio. [Comentario sobre tratamiento de incertezas del target en Modelos Lineales](https://drive.google.com/file/d/1ILpXY9TUEVWXGXwM2q7r4fEMPqBGvBRB/view).
+[Martes 02 de junio](https://drive.google.com/file/d/1ILpXY9TUEVWXGXwM2q7r4fEMPqBGvBRB/view). Comentario sobre tratamiento de incertezas del target en Modelos Lineales.
 ***
 
 ### Videos
@@ -115,3 +115,7 @@ __Martes 26 de mayo.__<br>
 __Jueves 28 de mayo.__<br>
 [Video](https://drive.google.com/file/d/1tWl7AhIPORWUiRW6eZprK9UCtNi33NW6/view);
 [transcripción del chat](https://drive.google.com/file/d/1Xrae7jSdTAqb7UfG5TfQSoqi2zfE9t6R/view)
+
+__Martes 02 de junio.__<br>
+[Video](https://drive.google.com/file/d/1iZgQ58VI_X8RptUnvCjfZ6n_ZMEk4BCA/view);
+[transcripción del chat](https://drive.google.com/file/d/1uBxUyPuxcNBpZM3K-GgNMhWFh09I6IZU/view)
