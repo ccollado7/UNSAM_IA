@@ -117,5 +117,5 @@ __Jueves 28 de mayo.__<br>
 [transcripción del chat](https://drive.google.com/file/d/1Xrae7jSdTAqb7UfG5TfQSoqi2zfE9t6R/view)
 
 __Martes 02 de junio.__<br>
-[Video](https://drive.google.com/file/d/1iZgQ58VI_X8RptUnvCjfZ6n_ZMEk4BCA/view);
-[transcripción del chat](https://drive.google.com/file/d/1uBxUyPuxcNBpZM3K-GgNMhWFh09I6IZU/view)
+[Video](https://drive.google.com/file/d/1uBxUyPuxcNBpZM3K-GgNMhWFh09I6IZU/view);
+[transcripción del chat](https://drive.google.com/file/d/1iZgQ58VI_X8RptUnvCjfZ6n_ZMEk4BCA/view)
