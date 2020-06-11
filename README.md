@@ -129,3 +129,7 @@ __Jueves 04 de junio.__<br>
 __Martes 09 de junio.__<br>
 [Video](https://drive.google.com/file/d/1qCZUfab9mp3u2z7z02y9AIQMW2T31gcp/view);
 [transcripción del chat](https://drive.google.com/file/d/1GipnUXVCv6mh-lW3a860j8pEGv8xv7er/view)
+
+__Jueves 11 de junio.__<br>
+[Video](https://drive.google.com/file/d/1CK22nkykTYXJi9dr39_YiV67OtCDU-Pc/view);
+[transcripción del chat](https://drive.google.com/file/d/1VUODSCa8YLAqEn7yVkHXca9S94ElFRmJ/view)
