@@ -133,3 +133,8 @@ __Martes 09 de junio.__<br>
 __Jueves 11 de junio.__<br>
 [Video](https://drive.google.com/file/d/1CK22nkykTYXJi9dr39_YiV67OtCDU-Pc/view);
 [transcripción del chat](https://drive.google.com/file/d/1VUODSCa8YLAqEn7yVkHXca9S94ElFRmJ/view)
+
+__Martes 16 de junio.__<br>
+[Video](https://drive.google.com/file/d/1qVWf_pdbVtZjBu_9ImoRbqx2aXlujLmL/view);
+[transcripción del chat](https://drive.google.com/file/d/1fYvQ8yc76yaSHG3f_1VENaTtCaUdy49A/view)
+
