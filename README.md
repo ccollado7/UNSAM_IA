@@ -138,3 +138,6 @@ __Martes 16 de junio.__<br>
 [Video](https://drive.google.com/file/d/1qVWf_pdbVtZjBu_9ImoRbqx2aXlujLmL/view);
 [transcripción del chat](https://drive.google.com/file/d/1fYvQ8yc76yaSHG3f_1VENaTtCaUdy49A/view)
 
+__Jueves 18 de junio.__<br>
+[Video](https://drive.google.com/file/d/1Ah6qz_4KcdxmT0v__uMMNCr38EnRsgav/view);
+[transcripción del chat](https://drive.google.com/file/d/1ZWWN2TxhIDdZUxg0J5QLJGwDub0pJZXp/view)
