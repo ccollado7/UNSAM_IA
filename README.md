@@ -41,6 +41,12 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 9 de junio](https://drive.google.com/file/d/1GLH1R78PII3dr5UO6i0gaoz_A5P_Bekh/view?usp=sharing). Redes neuronales.
 ***
 
+[Martes 23 de junio](https://drive.google.com/file/d/1FSQbNU-6WMdaTsPdWPNG-4pbNHLCF9zG/view?usp=sharing). Transfer-Learning.
+***
+[Martes 23 de junio](https://drive.google.com/file/d/1Gw6luuDlCCDw_7zfVMN8hXCso_vo2LHg/view?usp=sharing). RNNs.
+***
+
+
 ### Videos
 
 Videos de las clases virtuales
