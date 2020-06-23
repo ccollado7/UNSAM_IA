@@ -40,8 +40,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 [Martes 9 de junio](https://drive.google.com/file/d/1GLH1R78PII3dr5UO6i0gaoz_A5P_Bekh/view?usp=sharing). Redes neuronales.
 
-[Martes 23 de junio](https://drive.google.com/file/d/1miiPjds60ot3t04pCkuaGrgZ7wBNCEAP/view?usp=sharing). Redes generativas antagónicas (GAN)
-***
+Martes 23 de junio. [Transfer-Learning](https://drive.google.com/file/d/1FSQbNU-6WMdaTsPdWPNG-4pbNHLCF9zG/view?usp=sharing). [Redes Generativas Antagónicas (GAN)](https://drive.google.com/file/d/1miiPjds60ot3t04pCkuaGrgZ7wBNCEAP/view?usp=sharing). [RNNs](https://drive.google.com/file/d/1Gw6luuDlCCDw_7zfVMN8hXCso_vo2LHg/view?usp=sharing).
+
 
 ### Videos
 
