@@ -39,6 +39,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 02 de junio](https://drive.google.com/file/d/1ILpXY9TUEVWXGXwM2q7r4fEMPqBGvBRB/view). Comentario sobre tratamiento de incertezas del target en Modelos Lineales.
 
 [Martes 9 de junio](https://drive.google.com/file/d/1GLH1R78PII3dr5UO6i0gaoz_A5P_Bekh/view?usp=sharing). Redes neuronales.
+
+[Martes 23 de junio](https://drive.google.com/file/d/1miiPjds60ot3t04pCkuaGrgZ7wBNCEAP/view?usp=sharing). Redes generativas antagónicas (GAN)
 ***
 
 ### Videos
