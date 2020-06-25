@@ -149,6 +149,6 @@ __Martes 23 de junio.__<br>
 [transcripción del chat](https://drive.google.com/file/d/1DJ_aZJqrUzU0X-hU9S9ewz2pG8UH6_RC/view)
 
 __Jueves 25 de junio.__<br>
-Consulta con Manu. [Video](https://drive.google.com/file/d/13kzi_M5hE8bKp5-fGQR60oYOf-n6VweJ/view); [chat](https://drive.google.com/file/d/1BOQoBVkqHJmhHA9_Um2p5OvAVDTHLxD3/view)<br>
+Consulta con Manu. [Video](https://drive.google.com/); [chat](https://drive.google.com/)<br>
 Consulta con Nacho. [Video](https://drive.google.com/file/d/14Hh76EaFQPyv5T3DaYKXg59crKQ8RR2o/view); [chat](https://drive.google.com/file/d/1GJtKHYpX0LUU0w0BzmIu0NXPk3MYsU67/view)<br>
-Consulta con Rodrigo. [Video](https://drive.google.com/file/d/1kYjWvwCxPJyvNxnpUHbwx0SauGylsA8y/view); [chat](https://drive.google.com/file/d/1ZxKsRW_t3LO3nX6Own5AO6_4-UJwzYkR/view)
+Consulta con Rodrigo. [Video](https://drive.google.com/); [chat](https://drive.google.com/)
