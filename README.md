@@ -151,4 +151,4 @@ __Martes 23 de junio.__<br>
 __Jueves 25 de junio.__<br>
 Consulta con Manu. [Video](https://drive.google.com/file/d/19QtKBzqDXLi_FMvHrYvrj6iJJwzZ5WnN/view?usp=sharing); [chat](https://drive.google.com/file/d/1ipWf_CBqFRZ_A8hs4k0DAb0SA77_ESB4/view?usp=sharing)<br>
 Consulta con Nacho. [Video](https://drive.google.com/file/d/14Hh76EaFQPyv5T3DaYKXg59crKQ8RR2o/view); [chat](https://drive.google.com/file/d/1GJtKHYpX0LUU0w0BzmIu0NXPk3MYsU67/view)<br>
-Consulta con Rodrigo. [Video](https://drive.google.com/); [chat](https://drive.google.com/)
+Consulta con Rodrigo. [Video](https://drive.google.com/file/d/1AY1unWJhq3NwV3xei-oODnQf3Iulv5O1/view); [chat](https://drive.google.com/file/d/1q0KAEL30BAfTQ0zhz8IJjBWJAkSJ-zM9/view)
