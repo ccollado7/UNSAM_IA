@@ -156,3 +156,7 @@ Consulta con Rodrigo. [Video](https://drive.google.com/file/d/1AY1unWJhq3NwV3xei
 __Martes 30 de junio.__<br>
 [Video](https://drive.google.com/file/d/17Nr7BJ-shrJ9d9Ncq_xPvbZ0Kz60wajv/view);
 [transcripción del chat](https://drive.google.com/file/d/1GuNd06vvCMUTR05rjedcpx-Y_tSjG9eK/view)
+
+__Jueves 02 de julio: Cierre de la materia e invitados especiales.__<br>
+[Video](https://drive.google.com/file/d/1HSj0TKx9PquFkTs-7j0mT1eS68vwK-9Q/view);
+[transcripción del chat](https://drive.google.com/file/d/1m5LXiS9JjsO7U-V7WDrd9OCbbQMI0AO_/view)
