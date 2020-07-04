@@ -42,6 +42,9 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 Martes 23 de junio. [Transfer-Learning](https://drive.google.com/file/d/1FSQbNU-6WMdaTsPdWPNG-4pbNHLCF9zG/view?usp=sharing). [Redes Generativas Antagónicas (GAN)](https://drive.google.com/file/d/1miiPjds60ot3t04pCkuaGrgZ7wBNCEAP/view?usp=sharing). [RNNs](https://drive.google.com/file/d/1Gw6luuDlCCDw_7zfVMN8hXCso_vo2LHg/view?usp=sharing).
 
+Jueves 2 de julio.<br/>
+Yamila Barrera (Aristas), ["Modelos generativos para fragancias"](https://docs.google.com/presentation/d/16ZM79NhlEuN47ZeexD7ABkHQWkxzmq2kTRhbd0Cs_Z0/edit?usp=sharing).</br>
+Ezequiel Álvarez (ICAS), ["Intelligent Arxiv"](https://drive.google.com/file/d/1HlSQgHc7rxQhBJgHu7G1Wk6ygVJg8-tb/view?usp=sharing).
 
 ### Videos
 
